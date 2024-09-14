@@ -8,8 +8,7 @@ Freelance full-stack WEB
 
 
 ## 🚀 About Me
-Soy ingeniero industrial de profesión, amante de la tecnología, en el 2022 me empiezo a interesar como pasatiempo en la programación, adorando este mundo.
-Egresado del programa ONE-EDUCATION de Oracle y Alura Latam. Logrando así conocer tecnologías y lenguages tanto backend como frontend interesantes  y llenos de nuevas oportunidades.
+Soy ingeniero industrial de profesión y amante de la tecnología. En 2022, comencé a interesarme en la programación como pasatiempo y terminé adorando este mundo. Egresé del programa ONE-EDUCATION de Oracle y Alura Latam, lo que me permitió conocer tecnologías y lenguajes tanto de backend como de frontend, interesantes y llenos de nuevas oportunidades.
 
 
 ## 🔗 Links
