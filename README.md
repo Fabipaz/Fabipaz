@@ -1,16 +1,22 @@
-## Hi there 👋
 
-<!--
-**Fabipaz/Fabipaz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hola, mi nombre es Héctor Pastrana
 
-Here are some ideas to get you started:
+Freelance full-stack WEB
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+![Logo](https://fabipazdev.com/wp-content/uploads/2024/05/Fabipazdev-1.gif)
+
+
+## 🚀 About Me
+Soy ingeniero industrial de profesión, amante de la tecnología, en el 2022 me empiezo a interesar como pasatiempo en la programación, adorando este mundo.
+Egresado del programa ONE-EDUCATION de Oracle y Alura Latam. Logrando así conocer tecnologías y lenguages tanto backend como frontend interesantes  y llenos de nuevas oportunidades.
+
+
+## 🔗 Links
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://www.fabipaz.lat/)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fabipazdev)
+
+
+
+## 🛠 Skills
+Python, Java, Reflex, HTML, css, Javascript
