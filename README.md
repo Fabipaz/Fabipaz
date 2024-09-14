@@ -18,4 +18,10 @@ Soy ingeniero industrial de profesión y amante de la tecnología. En 2022, come
 
 
 ## 🛠 Skills
-Python, Java, Reflex, HTML, css, Javascript
+![Logo python](https://img.icons8.com/?size=100&id=13441&format=png&color=000000)
+![Logo java](https://img.icons8.com/?size=100&id=13679&format=png&color=000000)
+![Logo javascritp](https://img.icons8.com/?size=100&id=108784&format=png&color=000000)
+![Logo git](https://img.icons8.com/?size=100&id=20906&format=png&color=000000)
+![Logo github](https://img.icons8.com/?size=100&id=12599&format=png&color=000000)
+![Logo css](https://img.icons8.com/?size=100&id=5cVdiiKKi0vX&format=png&color=000000)
+![Logo html](https://img.icons8.com/?size=100&id=20909&format=png&color=000000)
