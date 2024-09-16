@@ -25,3 +25,7 @@ Soy ingeniero industrial de profesión y amante de la tecnología. En 2022, come
 ![Logo github](https://img.icons8.com/?size=100&id=12599&format=png&color=000000)
 ![Logo css](https://img.icons8.com/?size=100&id=5cVdiiKKi0vX&format=png&color=000000)
 ![Logo html](https://img.icons8.com/?size=100&id=20909&format=png&color=000000)
+
+
+https://github.com/user-attachments/assets/00058e3a-55f5-40f4-85a5-fb3f7a8e914b
+
