@@ -3,8 +3,9 @@
 
 Freelance full-stack WEB
 
+![Leonardo_Phoenix_A_futuristic_highcontrast_3D_render_of_a_mode_2](https://github.com/user-attachments/assets/7a02731d-4c9a-4ea9-8362-72c975a48f93)
 
-![Logo](https://fabipazdev.com/wp-content/uploads/2024/05/Fabipazdev-1.gif)
+
 
 
 ## 🚀 About Me
