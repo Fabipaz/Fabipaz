@@ -28,4 +28,6 @@ Soy ingeniero industrial de profesión y amante de la tecnología. En 2022, come
 
 
 https://github.com/user-attachments/assets/00058e3a-55f5-40f4-85a5-fb3f7a8e914b
+![alchemyrefiner_alchemymagic_0_10132445-eb93-46bb-aa1f-9b4531726238_0](https://github.com/user-attachments/assets/0668dbd6-b4ed-4a1b-a2bc-b3948fcc1495)
 
+![Default_An_ethereal_and_majestic_scene_depicting_a_Seraphim_a_1_a0806c93-8f48-43f4-842a-e90817c6773f_0](https://github.com/user-attachments/assets/f0777b4c-b5b7-4606-bd5a-304713b10597)
